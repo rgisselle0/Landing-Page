@@ -1,0 +1,43 @@
+body, h1, p, a {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    background-color: #afe0ff;
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    background-color: #293591;
+    color: white;
+    padding: 20px 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    background-color: #afe0ff;
+    color: #293591;
+    border-radius: 3px;
+    padding: 4px 4px 4px 4px;
+}
+main {
+    margin: 20px 0;
+}
+
+footer {
+    background-color: #293591;
+    color: white;
+    padding: 10px 0;
+}
+img {
+    width: 300px;
+    margin-top: 16px;
+}
